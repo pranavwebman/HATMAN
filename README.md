@@ -9,7 +9,7 @@
 > **Advanced, colorful, interactive web reconnaissance scanner with HTML reporting.**  
 > Designed for **Termux** and any Linux environment. No heavy dependencies – pure Python.
 
-![Hatman Banner](https://raw.githubusercontent.com/yourusername/hatman/main/assets/banner.png)  
+![Hatman Banner](https://i.ibb.co/W4hwftqg/hatman.png)  
 *(Replace with your actual banner image URL if desired)*
 
 ---
@@ -149,36 +149,6 @@ Future versions may support external wordlist files.
 
 ---
 
-## 📝 Examples
-
-### Full Scan on `raphaaromahospital.com`
-```bash
-python hatman.py raphaaromahospital.com
-```
-
-**Terminal snippet:**
-```
-[+] DNS Reconnaissance
-  ✅ A: 1 records found
-  ✅ AAAA: 1 records found
-  ✅ NS: 2 records found
-
-[+] Port Scanning
-  ✅ Port 80 (HTTP) - OPEN
-  ✅ Port 443 (HTTPS) - OPEN
-  ✅ Port 21 (FTP) - OPEN
-
-[+] Web Enumeration
-  ✅ Port 80: LiteSpeed - 200 - 'Rapha Aroma Hospital'
-      Technologies: Angular, Vue.js, PHP/8.2.30, React
-
-💾 HTML report saved to: hatman_report_raphaaromahospital.com_1777093889.html
-```
-
-### Quick Scan (Common Ports Only)
-```bash
-python hatman.py scanme.nmap.org --quick
-```
 
 ---
 
