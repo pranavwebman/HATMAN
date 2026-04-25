@@ -9,7 +9,7 @@
 > **Advanced, colorful, interactive web reconnaissance scanner with HTML reporting.**  
 > Designed for **Termux** and any Linux environment. No heavy dependencies – pure Python.
 
-![Hatman Banner](https://i.ibb.co/W4hwftqg/hatman.png)  
+![Hatman Banner](https://i.ibb.co/FL7SDwWL/hat.png)  
 *(Replace with your actual banner image URL if desired)*
 
 ---
