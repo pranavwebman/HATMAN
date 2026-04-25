@@ -51,8 +51,8 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/yourusername/hatman.git
-cd hatman
+git clone https://github.com/pranavwebman/HATMAN.git
+cd HATMAN
 pip install requests dnspython
 python hatman.py --help
 ```
@@ -61,8 +61,8 @@ python hatman.py --help
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git
-git clone https://github.com/yourusername/hatman.git
-cd hatman
+git clone https://github.com/pranavwebman/HATMAN.git
+cd HATMAN
 pip3 install requests dnspython
 python3 hatman.py --help
 ```
